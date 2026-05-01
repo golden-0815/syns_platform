@@ -1,0 +1,7 @@
+{
+  "assetContract": "0x56FD820d4Ce2307447A36a45B3727857734d6c4e",
+  "tokenId": 0,
+  "quantityToList": 150,
+  "currencyToAccept": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+  "buyoutPricePerToken": 20000000000000
+}
